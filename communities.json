@@ -555,6 +555,13 @@
       "quote": "This server allows the engine users to help one another, as well as showcase creations and communicate with some of the official developers behind the engine.",
       "inviteCode": "zH7NUgz",
       "githubUrl": "https://github.com/godotengine/"
-    }
+    },
+    {
+      "logo": "Arcaniumnb.png",
+      "title": "The Legend of Arcanium",
+      "quote": "Minecraft French Modded Faction Server - Serveur Minecraft Francophone Faction Moddé",
+      "inviteCode": "dhSSrWm",
+      "githubUrl": "https://github.com/ArcaniumFaction",
+    }    
   ]
 }
